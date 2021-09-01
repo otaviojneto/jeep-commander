@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "Pro Bold";
+  src: url("DINNextLTPro-Bold.otf") format("otf");
+}
+
+@font-face {
+  font-family: "Pro Italic";
+  src: url("DINNextLTPro-Italic.otf") format("otf");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Pro Light";
+  src: url("DINNextLTPro-Light.otf") format("otf");
+}
+
+@font-face {
+  font-family: "Pro MediumItaic";
+  src: url("DINNextLTPro-MediumItalic.otf") format("otf");
+}
+
+@font-face {
+  font-family: "Pro Regular";
+  src: url("DINNextLTPro-Regular.otf") format("otf");
+}
